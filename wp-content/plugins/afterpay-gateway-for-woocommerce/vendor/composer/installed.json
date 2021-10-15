@@ -1,0 +1,51 @@
+{
+    "packages": [
+        {
+            "name": "afterpay-global/afterpay-sdk-php",
+            "version": "1.3.8",
+            "version_normalized": "1.3.8.0",
+            "source": {
+                "type": "git",
+                "url": "https://github.com/afterpay/sdk-php.git",
+                "reference": "919ceab8df3621bb024aed369143f61e6f9e6eb4"
+            },
+            "dist": {
+                "type": "zip",
+                "url": "https://api.github.com/repos/afterpay/sdk-php/zipball/919ceab8df3621bb024aed369143f61e6f9e6eb4",
+                "reference": "919ceab8df3621bb024aed369143f61e6f9e6eb4",
+                "shasum": ""
+            },
+            "require-dev": {
+                "squizlabs/php_codesniffer": "^3.5"
+            },
+            "time": "2021-09-28T05:27:34+00:00",
+            "type": "library",
+            "installation-source": "dist",
+            "autoload": {
+                "psr-4": {
+                    "Afterpay\\SDK\\": [
+                        "src"
+                    ]
+                }
+            },
+            "notification-url": "https://packagist.org/downloads/",
+            "license": [
+                "Apache-2.0"
+            ],
+            "authors": [
+                {
+                    "name": "Afterpay",
+                    "homepage": "https://www.afterpay.com"
+                }
+            ],
+            "description": "Official Afterpay SDK for PHP",
+            "support": {
+                "issues": "https://github.com/afterpay/sdk-php/issues",
+                "source": "https://github.com/afterpay/sdk-php/tree/v1.3.8"
+            },
+            "install-path": "../afterpay-global/afterpay-sdk-php"
+        }
+    ],
+    "dev": true,
+    "dev-package-names": []
+}

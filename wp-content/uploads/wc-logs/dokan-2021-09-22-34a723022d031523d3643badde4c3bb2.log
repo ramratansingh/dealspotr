@@ -1,0 +1,8 @@
+2021-09-22T02:27:56+00:00 DEBUG Could not delete webhook: No API key provided.  (HINT: set your API key using "Stripe::setApiKey(<API-KEY>)".  You can generate API keys from the Stripe web interface.  See https://stripe.com/api for details, or email support@stripe.com if you have any questions.
+2021-09-22T02:27:56+00:00 DEBUG Could not create webhook: No API key provided.  (HINT: set your API key using "Stripe::setApiKey(<API-KEY>)".  You can generate API keys from the Stripe web interface.  See https://stripe.com/api for details, or email support@stripe.com if you have any questions.
+2021-09-22T02:51:12+00:00 DEBUG New Order #2525 created. Init sub order.
+2021-09-22T02:51:12+00:00 DEBUG 1 vendor only, skipping sub order.
+2021-09-22T02:51:13+00:00 DEBUG New Order #2542 created. Init sub order.
+2021-09-22T02:51:13+00:00 DEBUG 1 vendor only, skipping sub order.
+2021-09-22T02:51:14+00:00 DEBUG New Order #2565 created. Init sub order.
+2021-09-22T02:51:14+00:00 DEBUG 1 vendor only, skipping sub order.
